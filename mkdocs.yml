@@ -1,0 +1,62 @@
+dev_addr: 127.0.0.1:8000
+site_name: TacticTur # evers.dev
+site_description: På tur med Tactic
+site_author: Kristian Evers
+copyright: Copyright &copy; 2025 Kristian Evers
+
+docs_dir: docs
+
+nav:
+- Start: index.md
+
+# Configuration
+theme:
+  name: material
+  language: en
+  #custom_dir: material/overrides
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.path
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light green
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Lexend
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+
+markdown_extensions:
+  - pymdownx.blocks.caption
+
+extra_javascript:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js # leaflet
+extra_css:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css # leaflet
