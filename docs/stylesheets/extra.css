@@ -1,0 +1,24 @@
+.md-header__title {
+    font-size: 1.5rem !important;
+}
+
+.md-header__button.md-logo {
+  margin-top: 10;
+  margin-bottom: 10;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 3.4rem;
+  width: 3.4rem;
+}
+
+/* 6BA16B */
+
+:root  > * {
+  --md-primary-fg-color:        #6BA16B;
+  --md-accent-fg-color:         #A16B6B;
+  /* #A16B6B | #6B6BA1*/
+}

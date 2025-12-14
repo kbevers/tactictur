@@ -1,5 +1,7 @@
-# Sommertogt 2026
 
-En rundtur gennem Sverige.
+En mand og hans båd.
 
-![Anker ud for Ven](images/anker_ven.jpg)
+![Selfie fra solosejlads](images/selfie_cockpit.jpg)
+/// caption
+Fra første solosejlads på Tactic.
+///
