@@ -1,5 +1,5 @@
 dev_addr: 127.0.0.1:8000
-site_name: TacticTur # evers.dev
+site_name: Tactic på Tur
 site_description: På tur med Tactic
 site_author: Kristian Evers
 copyright: Copyright &copy; 2025 Kristian Evers
@@ -7,51 +7,34 @@ copyright: Copyright &copy; 2025 Kristian Evers
 docs_dir: docs
 
 nav:
-- Start: index.md
+- Tactic: index.md
+- Sommertogt 2026: sommertogt26.md
 
 # Configuration
 theme:
   name: material
-  language: en
+  language: da
   #custom_dir: material/overrides
   features:
     - content.code.annotate
     - content.code.copy
     - content.tooltips
     - navigation.sections
-    - navigation.tabs
+    #- navigation.tabs
     - navigation.top
     - navigation.tracking
-    - navigation.path
-    - search.highlight
-    - search.share
-    - search.suggest
-    - toc.follow
-  palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: light green
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off
-        name: Switch to system preference
+    #- navigation.path
+    # - toc.follow
+
   font:
     text: Lexend
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: images/if-logo-green.png #assets/favicon.png
   icon:
     logo: logo
+  logo: images/if-logo-green.png
+
+plugins: []
 
 markdown_extensions:
   - pymdownx.blocks.caption
@@ -59,4 +42,5 @@ markdown_extensions:
 extra_javascript:
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js # leaflet
 extra_css:
+  - stylesheets/extra.css
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css # leaflet
