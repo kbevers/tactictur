@@ -117,3 +117,22 @@ dage til søs men mon ikke det er det hele værd? Tættere på København er sto
 Ven også gode muligheder.
 
 ![Gaffelrigger med topsejl](images/togt2026/topsejl.jpg)
+
+## Appetitvækkere
+
+Et glimt af hvad der venter på turen.
+
+* **Yggdrasail** - En rejse fra det sydlige Sverige til Göteborg via Göta Kanalen.<br>
+Episode [1][YGGDRA1] & [2][YGGDRA2]
+
+* **RAN Sailing**. Gennem Göta Kanalen med en lille pige.<br>
+Episode [1][RAN1], [2][RAN2], [3][RAN3] & [4][RAN4]
+
+
+[YGGDRA1]: https://www.youtube.com/watch?v=xFAVYR1NRok
+[YGGDRA2]: https://www.youtube.com/watch?v=dCCfMf217JE
+[RAN1]: https://www.youtube.com/watch?v=roNK6cQqyaY
+[RAN2]: https://www.youtube.com/watch?v=KKDf5NQCww8
+[RAN3]: https://www.youtube.com/watch?v=ORMLzAVDNdg
+[RAN4]: https://www.youtube.com/watch?v=D6TRBgVQcJI
+
