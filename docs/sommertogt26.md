@@ -13,15 +13,15 @@ Den grove plan for turen. Start og slut i København, mod uret rundt om, og ad k
 
 Turen bliver alt i alt syv uger. Den overordnede plan er som beskrevet herunder.
 
-| Uge nr. | Start       | Slut         | Ledige pladser |
-|---------|-------------|--------------|----------------|
-| 30      | København   | Kalmar       | 2              |
-| 31      | Kalmar      | Söderköping  | 2              |
-| 32      | Söderköping | Karlsborg    | 2              |
-| 33      | Karlsborg   | Vänersborg   | 2              |
-| 34      | Vänersborg  | Marstrand    | 2              |
-| 35      | Marstrand   | Marstrand    | 2              |
-| 36      | Marstrand   | København    | 2              |
+| Etape | Uge nr. | Start       | Slut         | Ledige pladser |
+|-------|---------|-------------|--------------|----------------|
+|  1    | 30      | København   | Kalmar       | 2              |
+|  2    | 31      | Kalmar      | Söderköping  | 2              |
+|  3    | 32      | Söderköping | Karlsborg    | 2              |
+|  4    | 33      | Karlsborg   | Vänersborg   | 2              |
+|  5    | 34      | Vänersborg  | Marstrand    | 2              |
+|  6    | 35      | Marstrand   | Marstrand    | 2              |
+|  7    | 36      | Marstrand   | København    | 2              |
 
 ## Vil du med?
 
@@ -32,7 +32,8 @@ der er relativt lettilgængelig med offentlig transport.
 
 Vi deles om udgifter til forplejning, havne, brændstof og lignende. Da det
 ikke er helt billigt at have en båd, vil bede om et bidrag til vedligehold af båden på 500kr pr.
-person pr. uge. Transport til og fra skiftehavnen står du i udgangspunktet selv for.
+person pr. uge. Transport til og fra skiftehavnen står du i udgangspunktet selv for. Det samme
+gælder for remedier til bekæmpelse af søsyge og hvad der ellers måtte være af personlige behov.
 
 ## Ruten
 
@@ -122,16 +123,21 @@ Ven også gode muligheder.
 
 Et glimt af hvad der venter på turen.
 
-* **Yggdrasail** - En rejse fra det sydlige Sverige til Göteborg via Göta Kanalen.<br>
+* **cookinginthecockpit** - [Instagramprofil][CITC1] med fremragende billeder fra ture til skærgården i en båd af samme størrelse som Tactic. Parret bag profilen har også skrevet en fin
+artikel i [Yachthing Monthly][CITC2] om deres tur til Göteborgs skærgård.
+
+* **Yggdrasail** - To videoer fra en rejse fra det sydlige Sverige til Göteborg via Göta Kanalen.<br>
 Episode [1][YGGDRA1] & [2][YGGDRA2]
 
-* **RAN Sailing**. Gennem Göta Kanalen med en lille pige.<br>
+* **RAN Sailing**. En videoserie om en sejltur gennem Göta Kanalen med en lille pige ombord.<br>
 Episode [1][RAN1], [2][RAN2], [3][RAN3] & [4][RAN4]
 
 
+[CITC1]: https://www.instagram.com/cookinginthecockpit/
+[CITC2]: https://www.yachtingmonthly.com/cruising-life/cruising-the-gothenburg-archipelago-92982
 [YGGDRA1]: https://www.youtube.com/watch?v=xFAVYR1NRok
 [YGGDRA2]: https://www.youtube.com/watch?v=dCCfMf217JE
-[RAN1]: https://www.youtube.com/watch?v=roNK6cQqyaY
+[RAN1]: https://youtu.be/roNK6cQqyaY?t=601
 [RAN2]: https://www.youtube.com/watch?v=KKDf5NQCww8
 [RAN3]: https://www.youtube.com/watch?v=ORMLzAVDNdg
 [RAN4]: https://www.youtube.com/watch?v=D6TRBgVQcJI
