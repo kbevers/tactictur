@@ -129,8 +129,11 @@ artikel i [Yachthing Monthly][CITC2] om deres tur til Göteborgs skærgård.
 * **Yggdrasail** - To videoer fra en rejse fra det sydlige Sverige til Göteborg via Göta Kanalen.<br>
 Episode [1][YGGDRA1] & [2][YGGDRA2]
 
-* **RAN Sailing**. En videoserie om en sejltur gennem Göta Kanalen med en lille pige ombord.<br>
+* **RAN Sailing** - En videoserie om en sejltur gennem Göta Kanalen med en lille pige ombord.<br>
 Episode [1][RAN1], [2][RAN2], [3][RAN3] & [4][RAN4]
+
+* **AYLA Sailing** - Et ungt dansk par, der sejler gennem Göta Kanalen.<br>
+Episode [1][AYLA1], [2][AYLA2], [3][AYLA3] & [4][AYLA4]
 
 
 [CITC1]: https://www.instagram.com/cookinginthecockpit/
@@ -141,4 +144,7 @@ Episode [1][RAN1], [2][RAN2], [3][RAN3] & [4][RAN4]
 [RAN2]: https://www.youtube.com/watch?v=KKDf5NQCww8
 [RAN3]: https://www.youtube.com/watch?v=ORMLzAVDNdg
 [RAN4]: https://www.youtube.com/watch?v=D6TRBgVQcJI
-
+[AYLA1]: https://www.youtube.com/watch?v=uhi1LBeC51M
+[AYLA2]: https://www.youtube.com/watch?v=-VxLGYROGc8
+[AYLA3]: https://www.youtube.com/watch?v=udJmjPxnDvU
+[AYLA4]: https://www.youtube.com/watch?v=EMfHD0BocG8
