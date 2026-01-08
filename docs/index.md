@@ -1,6 +1,7 @@
-# En mand og hans båd
+<script>
+    window.onload = function() {
+    window.location.replace("https://evers.dev/tactic/");
+};
+</script>
 
-![Selfie fra solosejlads](images/selfie_cockpit.jpg)
-/// caption
-Fra første solosejlads på Tactic.
-///
+Siden er flyttet til [evers.dev](https://evers.dev/tactic/).
